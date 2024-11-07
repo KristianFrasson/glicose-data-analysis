@@ -115,7 +115,8 @@ source venv/bin/activate  # No Windows use `venv\Scripts\activate`
 
 3. Instale as dependências:
 
-~~~pip install pandas matplotlib
+~~~
+pip install pandas matplotlib
 ~~~
 
 4. Execute os scripts:
